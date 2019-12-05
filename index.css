@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap');
+.caja {
+    width: 40%;
+    height: 40vw;
+    background-color: #87b8deeb;
+    text-align: center;
+    border-radius: 2%;
+}
+
+.titulo {
+    font-size: 4rem;
+}
+
+button {
+    border-radius: 10px;
+    border: 2px;
+    color: black;
+    background-color: darkorange;
+    font-family: 'Press Start 2P', cursive;
+    padding: 5px 37px;
+    margin-top: 30px;
+}
+
+.puntuacion {
+    margin-top: 9%;
+}
+
+
+#modal-finjuego{
+	display: flex;
+    justify-content: center;
+    margin-top: 4vw;
+	font-family: 'Press Start 2P', cursive;
+	display: none;
+}
